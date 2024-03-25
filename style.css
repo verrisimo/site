@@ -4,6 +4,10 @@ body{
 background: linear-gradient(190deg, rgba(64,16,16,1) 80%, rgba(3,47,47,1) 100%);
  }
 
+img{
+   text-align: center;
+}
+
  h1 { 
     color: #A62631;
     text-align: center;
